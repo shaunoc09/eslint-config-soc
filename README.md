@@ -1,8 +1,8 @@
-# soc_eslint-config-soc
+# eslint-config-soc
 Style guide
 
 
 
-Install
+**Install**
 `npm install --save-dev git+https://git@github.com/shaunoc09/eslint-config-soc.git`
 
